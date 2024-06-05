@@ -1,0 +1,9 @@
+@media (prefers-color-scheme: dark) {
+  html, body {
+    background-color: #242424;
+    color: white;
+  }
+  a {
+    color: #93fff8;
+  }
+}
